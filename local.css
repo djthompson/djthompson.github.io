@@ -1,0 +1,20 @@
+.fdb-block {
+  font-family: 'Domine', serif;
+  padding: 20px 0;
+}
+
+.block-top {
+  padding-top: 100px;
+}
+
+.block-short {
+  padding: 50px 0 0 0;
+}
+
+.sans {
+  font-family: 'Open Sans', sans-serif;
+}
+
+.bg-lightblue {
+    background-color: #E7FAFA !important
+}
