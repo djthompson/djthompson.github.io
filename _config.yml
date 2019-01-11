@@ -1,5 +1,9 @@
 # Name of your blog (this will show up at the top of your page and in the RSS feed)
 name: GriffinPlan
+copyright: © 2019 Griffin Labs
+product: GriffinPlan
+title_tag: Smart IT resource management and budgeting
+email: hello@griffinplan.co
 
 # Short description (goes below the title; it will also be used in the RSS feed)
 description: This is a sample Jekyll Blog.
@@ -31,7 +35,7 @@ url: http://griffinplan.com
 #markdown: rdiscount
 
 # Makes pretty (descriptive) permalinks. See Jekyll docs for alternatives.
-permalink: pretty
+permalink: /blog/:categories/:title:output_ext
 
 # How many articles do you wish to appear on the front page:
 #paginate: 3
