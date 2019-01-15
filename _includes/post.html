@@ -1,0 +1,16 @@
+
+<section class="fdb-block fp-active" data-block-type="contents" data-id="1">
+  <div class="container">
+    <div class="row">
+      <div class="col m-md-auto col-md-8 text-left fr-box fr-inline">
+
+        <h2>{{ page.title }}</h2>
+        <p class="post-date">{{ page.date | date_to_string }}</p>
+        <div class="text-h3">
+        {{ content }}
+        </div>
+
+        {% include wordcount.html %}
+      </div>
+    </div>
+  </div>
