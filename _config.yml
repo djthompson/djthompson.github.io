@@ -25,7 +25,7 @@ category_dir: /
 baseurl:
 
 # The URL of your actual domain. This will be used to make absolute links in the RSS feed.
-url: https://griffinplan.com
+url: https://griffinplan.co
 
 #### Under the Hood Stuff #####
 
