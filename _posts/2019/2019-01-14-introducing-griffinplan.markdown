@@ -2,6 +2,7 @@
 layout: post
 title: Introducing GriffinPlan
 date: '2019-01-14 20:27'
+description: GriffinPlan is intended to provide smart IT resource management and budgeting. PMO Directors can manage their teams and budgets collaboratively across the enterprise.  
 ---
 
 *GriffinPlan* is intended to provide smart IT resource management and budgeting. This would be an integrated version of project portfolio management (PPM) and professional services automation (PSA) capabilities for internal IT departments at mid-sized companies. That is a lot of words that could mean many things, so let me explain. This is work that I have been doing with one company for some time and is informed by work that others are doing elsewhere.
