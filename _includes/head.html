@@ -2,13 +2,13 @@
 <html>
 <head>
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <link rel="stylesheet" href="/froala_blocks.min.css">
   <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0-beta.2/css/bootstrap.min.css">
-
   <link href="https://fonts.googleapis.com/css?family=Domine:400,700|Open+Sans:400,400i&amp;subset=latin-ext" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+  <link rel="stylesheet" href="/froala_blocks.min.css">
   <link rel="stylesheet" href="/local.css">
 
-  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.css">
+  <link rel="canonical" href="{{ page.url | prepend: site.url }}">
 
   <title>
     {% if page.title %} {{ page.title }} - {{ site.product  }}
@@ -16,6 +16,7 @@
     {% endif %}
   </title>
 
+{% if jekyll.environment == 'production' %}
   <!-- Global site tag (gtag.js) - Google Analytics -->
   <script async src="https://www.googletagmanager.com/gtag/js?id=UA-131583231-1"></script>
   <script>
@@ -25,6 +26,7 @@
 
     gtag('config', 'UA-131583231-1');
   </script>
+{% endif %}
 
 </head>
 <body>
