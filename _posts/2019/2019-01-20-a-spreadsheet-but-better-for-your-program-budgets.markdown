@@ -6,7 +6,7 @@ description: >-
   Why do PMO Directors end up managing teams in a spreadsheet? GriffinPlan provides smart IT resource management and budgeting customized for your needs.
 ---
 
-This [tweet](https://twitter.com/destraynor/status/979043150789410816) reminded me that we had a similar thought when we were planning the original version of what has become [GriffinPlan]({{ site.baseurl }}{% post_url 2019-01-14-introducing-griffinplan %}). Our existing tools did not do what we wanted. We were tying together various solutions with twine and duct tape to meet our needs for how projects actually unfold out over time.
+This [tweet](https://twitter.com/destraynor/status/979043150789410816) reminded me that we had a similar thought when we were planning the original version of what has become [GriffinPlan]({{ site.baseurl }}{% post_url 2019/2019-01-14-introducing-griffinplan %}). Our existing tools did not do what we wanted. We were tying together various solutions with twine and duct tape to meet our needs for how projects actually unfold out over time.
 
 <blockquote class="twitter-tweet tw-align-center" data-lang="en"><p lang="en" dir="ltr">Most project management software is designed for how we *wish* projects ran: predictable work, accurate estimates, known outputs, zero entropy. <br><br>This is why we all end up in spreadsheets; spreadsheets don&#39;t even assume a project is actually happening.</p>&mdash; Des Traynor (@destraynor) <a href="https://twitter.com/destraynor/status/979043150789410816?ref_src=twsrc%5Etfw">March 28, 2018</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 
